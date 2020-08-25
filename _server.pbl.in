@@ -12,3 +12,11 @@ description="This add-on is a resource package providing music for the Invasion 
 Installation of this add-on is optional for players with limited download rates or quotas, or who don't play with music or sounds enabled."
 
 passphrase="@ PBLPOST:PASSPHRASE IftU_Music @"
+
+[translation]
+    language="ru"
+    title="Музыка «Вторжения из Неведомого»"
+    description="Это дополнение — пакет с музыкой для кампаний «Вторжение из Неведомого» (Invasion from the Unknown) и «После Бури» (After the Storm). Оно НЕ предназначено для установки без самой кампании «Вторжение из Неведомого».
+
+Установка этого аддона необязательна для игроков с ограниченным сетевым трафиком либо для тех, кто играет без звука."
+[/translation]
