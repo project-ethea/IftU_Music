@@ -14,6 +14,14 @@ Installation of this add-on is optional for players with limited download rates 
 passphrase="@ PBLPOST:PASSPHRASE IftU_Music @"
 
 [translation]
+    language="es"
+    title="Música de «Invasión desde el más Allá»"
+    description="Este complemento es un paquete de recursos que continue música que es parte de la campaña «Invasión desde el más Allá» («Invasion from the Unknown»). La intención NO es que sea instalado sin la campaña.
+
+La instalación de este complemento es opcional para aquellos jugadores que tengan límites de descargas o no juegan con música o sonidos activados."
+[/translation]
+
+[translation]
     language="ru"
     title="Музыка «Вторжения из Неведомого»"
     description="Это дополнение — пакет с музыкой для кампаний «Вторжение из Неведомого» (Invasion from the Unknown) и «После Бури» (After the Storm). Оно НЕ предназначено для установки без самой кампании «Вторжение из Неведомого».
